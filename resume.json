@@ -1,0 +1,19 @@
+{
+    "id": "1",
+    "name": "Ebenezer Lankwei Lamptey",
+    "skills": ["Python", "AWS", "DevOps"],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "XYZ Corp",
+        "duration": "2022 - Present"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "Ghana Communications TechnologyUniversity",
+        "year": "2022"
+      }
+    ]
+  }
